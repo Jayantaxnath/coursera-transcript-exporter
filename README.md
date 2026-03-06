@@ -17,7 +17,7 @@ It collects all transcript sentences and copies them directly to the clipboard.
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/coursera-transcript-copy-extension.git
+git clone https://github.com/your-github-user-name/coursera-transcript-exporter
 ```
 
 2. Open Chrome
