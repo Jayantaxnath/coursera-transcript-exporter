@@ -4,7 +4,6 @@ A lightweight Chrome extension that lets you **copy the full transcript of a Cou
 
 Instead of manually selecting and copying transcript text, this extension extracts all transcript phrases automatically and copies them to your clipboard.
 
----
 
 ## How It Works
 
@@ -12,7 +11,6 @@ The extension scans the transcript container on the Coursera lecture page and ex
 
 It collects all transcript sentences and copies them directly to the clipboard.
 
----
 
 ## Installation (Developer Mode)
 
@@ -36,7 +34,6 @@ chrome://extensions/
 
 6. Select the extension folder
 
----
 
 ## Usage
 
@@ -44,7 +41,6 @@ chrome://extensions/
 2. Click the extension icon
 3. The transcript will be copied automatically
 
----
 
 ## Tech Stack
 
@@ -52,7 +48,6 @@ JavaScript
 Chrome Extension Manifest V3
 DOM Parsing
 
----
 
 ## Future Improvements
 
@@ -60,7 +55,6 @@ DOM Parsing
 • Export transcript as TXT or Markdown
 • Copy transcript with timestamps
 
----
 
 ## License
 
