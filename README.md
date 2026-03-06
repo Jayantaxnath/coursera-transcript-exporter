@@ -1,4 +1,11 @@
 # Coursera Transcript Copy Extension
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange)
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Platform](https://img.shields.io/badge/Platform-Chrome-lightgrey)
+![Works With](https://img.shields.io/badge/Works%20With-Coursera-blueviolet)
+![Version](https://img.shields.io/badge/Version-1.0-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A lightweight Chrome extension that lets you **copy the full transcript of a Coursera lecture with one click**.
 
