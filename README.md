@@ -1,9 +1,9 @@
 # Coursera Transcript Copy Extension
-![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue)
-![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange)
-![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blueviolet)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-yellow)
+![Language](https://img.shields.io/badge/Language-JavaScript-red)
 ![Platform](https://img.shields.io/badge/Platform-Chrome-lightgrey)
-![Works With](https://img.shields.io/badge/Works%20With-Coursera-blueviolet)
+![Works With](https://img.shields.io/badge/Works%20With-Coursera-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
